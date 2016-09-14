@@ -1,7 +1,7 @@
 # Facebook Dark Blue Chat Box
 ---
 ## Before
-![alt text](http://image.prntscr.com/image/5d410017e0f74bbfbb653cfaa1be10e5.png) 
+![alt text](http://image.prntscr.com/image/c2c37ef0190c4807bf42d8e1f1774150.png)
 
 ---
 ## After
