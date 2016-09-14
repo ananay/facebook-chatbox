@@ -1,0 +1,17 @@
+/*
+* @Author: ananayarora
+* @Date:   2016-07-23 12:04:26
+* @Last Modified by:   ananayarora
+* @Last Modified time: 2016-07-24 02:03:13
+*/
+
+._50mz .titlebar .titlebarText.fixemoji {
+    font-family: 'Helvetica Neue', 'Arial', 'Apple Color Emoji', sans-serif;
+    font-weight: 100 !important;
+    color: #fff !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+._20fw .fbNubFlyoutTitlebar {
+    background-color: #4267b2 !important;
+}

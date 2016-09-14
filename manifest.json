@@ -1,0 +1,12 @@
+{
+  "name": "Facebook Chatbox Fix",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*"], //where your script should be injected
+      "css": ["test.css"] //the name of the file to be injected
+      // "js": ["script.js"] //the name of the file to be injected
+    }
+  ]
+}
